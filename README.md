@@ -21,6 +21,6 @@ O que aprendi: Operações Matemáticas, condicionais.
 
 6 - Analisando Triângulo - Para treinar a lógica criamos um código que analisa 3 seguimentos e diz que tipo de triângulo eles formam.
 o código primeiro verifica se os 3 lados podem formar um triângulo. Depois classifica em: Equilátero, Isósceles ou Escaleno
-O que eu aprendi: Que a ordem do das condições são muito importante para que o código funcione.
+O que eu aprendi: Que a ordem  das condições são muito importante para que o código funcione.
 
 Feito de Coração por DorabellaAlice.
