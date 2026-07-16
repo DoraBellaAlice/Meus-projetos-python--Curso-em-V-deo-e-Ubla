@@ -1,33 +1,73 @@
 # Meus Projetos Python
 
-Eu sou a Dora e este é meu Repositório de estudos.
-Aqui eu estou guardando todos os meus exercícios que faço no curso de Python do Curso em Vídeo e Udemy.
-Meu objetivo é aprender  Python do zero e construir um portifólio para entrar na área de Ti.
+Olá! Eu sou a Dora, estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia.
 
-1 - Classificação Atletas - Programa que recebe a idade do Atleta e classifica  em: Mirim, Infantil, Júnior, Sênior ou Master.
-** O que eu aprendi: **Wile, if/else, random, lógica de repetição
+Este repositório reúne os exercícios e projetos que desenvolvo durante meus estudos de Python, utilizando cursos como Curso em Vídeo, Udemy e os conteúdos da faculdade.
 
-2 - Cotação do Dólar - Programa que converte valor em Real para Dólar.
-** O que aprendi: input, float, f-string, cálculos
+Atualmente estou construindo minha base em programação, praticando lógica, algoritmos e desenvolvimento de software. Meu objetivo é evoluir constantemente, desenvolver projetos cada vez mais completos e conquistar uma oportunidade de estágio na área de tecnologia.
 
-3 - Financiamento_da_Casa - Verifica se um financiamento imobiliário pode ser aprovado.
-Regra: A prestação não pode passar de 30% do salário.
-O que aprendi: Cálculo, lógica de Negócio, if.
+Aqui você encontrará minha jornada de aprendizado, meus desafios e a evolução dos meus conhecimentos em Python.
 
-4 - Jogo Adivinhando Número - Um jogo interativo, onde o computador escolhe um número aleatório e o usuário precisa adivinhar.
-O que aprendi: if/elif,else, estrutura de decisão.
+## 1 - Classificação de Atletas
 
-5 - Média do Aluno - Calcula a média de 2 notas e informa se o aluno foi Aprovado, Recuperação ou Reprovado
-O que aprendi: Operações Matemáticas, condicionais.
+Programa que recebe a idade do atleta e o classifica nas categorias: Mirim, Infantil, Júnior, Sênior ou Master.
 
-6 - Analisando Triângulo - Para treinar a lógica criamos um código que analisa 3 seguimentos e diz que tipo de triângulo eles formam.
-o código primeiro verifica se os 3 lados podem formar um triângulo. Depois classifica em: Equilátero, Isósceles ou Escaleno
-O que eu aprendi: Que a ordem  das condições são muito importante para que o código funcione.
+**O que eu aprendi:** while, if/else, random e lógica de repetição.
 
-7 - Índice de Massa corporal - código do projeto! Agora sobre saúde e cuidado com o corpo.
-    O que ele faz:
-Pede o peso e a altura, calcula o IMC e mostra em qual faixa a pessoa está.
-O que eu aprendi:Aprendi a usar vários elif em sequência e que a ordem das condições é muito importante. 
-Precisa ir da menor faixa pra maior, senão o código para no primeiro if.
+## 2 - Cotação do Dólar
 
-Feito de Coração por DorabellaAlice.
+Programa que converte valores em reais para dólares.
+
+**O que eu aprendi:** input, float, f-strings e cálculos matemáticos.
+
+## 3 - Financiamento da Casa
+
+Programa que verifica se um financiamento imobiliário pode ser aprovado.
+
+**Regra:** a prestação não pode ultrapassar 30% do salário do comprador.
+
+**O que eu aprendi:** cálculos, lógica de negócio e estruturas condicionais.
+
+## 4 - Jogo de Adivinhação
+
+Um jogo interativo em que o computador escolhe um número aleatório e o usuário precisa adivinhar.
+
+**O que eu aprendi:** if, elif, else e estruturas de decisão.
+
+## 5 - Média do Aluno
+
+Calcula a média de duas notas e informa se o aluno está aprovado, em recuperação ou reprovado.
+
+**O que eu aprendi:** operações matemáticas e condicionais.
+
+## 6 - Analisando Triângulos
+
+Programa que analisa três segmentos e verifica se eles podem formar um triângulo. Em seguida, classifica o triângulo como Equilátero, Isósceles ou Escaleno.
+
+**O que eu aprendi:** a importância da ordem das condições para o funcionamento correto do código.
+
+## 7 - Índice de Massa Corporal (IMC)
+
+Projeto voltado para saúde e bem-estar.
+
+**O que ele faz:** solicita o peso e a altura do usuário, calcula o IMC e informa em qual faixa de classificação a pessoa se encontra.
+
+**O que eu aprendi:** a utilizar vários elif em sequência e compreender a importância da ordem das condições.
+
+## 8 - Calculadora
+
+Calculadora simples desenvolvida em Python que permite ao usuário escolher entre diferentes operações matemáticas.
+
+**Operações disponíveis:**
+
+* Soma
+* Subtração
+* Multiplicação
+* Divisão
+* Potenciação
+
+**O que eu aprendi:** utilização de variáveis, entrada de dados com input, operadores matemáticos, estruturas condicionais (if, elif e else) e tratamento de divisão por zero.
+
+---
+
+Feito com ❤️ por DorabellaAlice.
