@@ -86,6 +86,18 @@ O programa calcula automaticamente descontos para pagamentos à vista, mantém o
 **O que eu aprendi:**
 Aprendi a trabalhar com estruturas condicionais (`if`, `elif` e `else`), cálculos matemáticos, entrada de dados com `input`, conversão de tipos com `float` e organização de regras de negócio dentro de um programa.
 
+## 10 - Jogo Pedra, Papel e Tesoura
+
+Jogo interativo de Pedra, Papel e Tesoura, onde o computador escolhe uma jogada aleatória e o jogador tenta vencer escolhendo entre Pedra, Papel ou Tesoura.
+
+O programa exibe a tradicional contagem "JO-KEN-PO", mostra a escolha do computador e do jogador e informa o resultado da partida: vitória, derrota ou empate.
+
+**O que eu aprendi:**
+Aprendi a utilizar a biblioteca `random` para gerar escolhas aleatórias do computador, a biblioteca `time` para criar pausas com `sleep()`, estruturas condicionais (`if`, `elif` e `else`) para comparar as jogadas e tuplas para armazenar os itens do jogo.
+
+Também pratiquei a criação de regras de decisão e a organização da lógica de um jogo simples em Python.
+
+
 
 ---
 
