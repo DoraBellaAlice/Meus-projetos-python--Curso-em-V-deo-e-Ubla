@@ -70,6 +70,23 @@ Calculadora simples desenvolvida em Python que permite ao usuário escolher entr
 
 ![Calculadora em execução])
 
+## 9 - Loja Dora - Sistema de Pagamento
+
+Programa que simula um sistema de pagamento de uma loja. O usuário informa o valor da compra e escolhe a forma de pagamento disponível.
+
+O programa calcula automaticamente descontos para pagamentos à vista, mantém o valor para compras parceladas em 2 vezes e aplica juros para parcelamentos em 3 vezes ou mais.
+
+**Formas de pagamento disponíveis:**
+
+* À vista no dinheiro ou cheque (10% de desconto)
+* À vista no cartão (5% de desconto)
+* Parcelado em 2 vezes no cartão
+* Parcelado em 3 vezes ou mais no cartão (com 20% de juros)
+
+**O que eu aprendi:**
+Aprendi a trabalhar com estruturas condicionais (`if`, `elif` e `else`), cálculos matemáticos, entrada de dados com `input`, conversão de tipos com `float` e organização de regras de negócio dentro de um programa.
+
+
 ---
 
 Feito com ❤️ por DorabellaAlice.
