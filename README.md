@@ -68,7 +68,7 @@ Calculadora simples desenvolvida em Python que permite ao usuário escolher entr
 
 **O que eu aprendi:** utilização de variáveis, entrada de dados com input, operadores matemáticos, estruturas condicionais (if, elif e else) e tratamento de divisão por zero. Obs: ## Exemplo de execução.
 
-![Calculadora em execução](calculadora.png)
+![Calculadora em execução])
 
 ---
 
