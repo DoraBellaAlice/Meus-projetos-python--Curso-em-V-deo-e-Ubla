@@ -97,12 +97,12 @@ Aprendi a utilizar a biblioteca `random` para gerar escolhas aleatórias do comp
 
 Também pratiquei a criação de regras de decisão e a organização da lógica de um jogo simples em Python.
 
-11 - Tabuada  
+## 11 - Tabuada  
 Programa que gera a tabuada de um número informado pelo usuário, utilizando o laço for.
 
 O que eu aprendi: prática com laços de repetição, organização de saída no console e manipulação de variáveis.
 
-12 - Radar Eletrônico  
+## 12 - Radar Eletrônico  
 Programa que simula um radar de velocidade. O usuário informa a velocidade de um carro, e o sistema verifica se ultrapassou o limite permitido.
 
 Regra: se a velocidade for maior que 80 km/h, o programa calcula e mostra o valor da multa.
