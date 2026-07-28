@@ -109,6 +109,24 @@ Regra: se a velocidade for maior que 80 km/h, o programa calcula e mostra o valo
 
 O que eu aprendi: uso de estruturas condicionais simples (if), cálculos matemáticos e aplicação de regras de negócio.
 
+## 13 - Sistema de Controle de Estoque
+Programa que simula um sistema simples de controle de estoque. O usuário pode cadastrar produtos, informando a quantidade atual e o limite mínimo aceitável.  
+
+Ao final, o sistema gera um **relatório de reposição**, indicando quais produtos estão em estoque seguro e quais precisam ser comprados.
+
+**Funcionalidades:**
+- Cadastro de produtos com nome, quantidade e limite mínimo.
+- Armazenamento dos dados em um dicionário (`dict`).
+- Relatório final com alerta ⚠️ para produtos abaixo do limite e ✅ para estoque seguro.
+
+**Exemplo de execução:**
+
+**O que eu aprendi:**  
+- Uso de dicionários para armazenar dados.  
+- Estruturas de repetição (`while` e `for`).  
+- Estruturas condicionais (`if`).  
+- Organização de lógica para simular um sistema real.
+
 
 
 ---
