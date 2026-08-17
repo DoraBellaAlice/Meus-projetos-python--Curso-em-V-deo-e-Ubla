@@ -1,6 +1,6 @@
 # Meus Projetos Python
 
-Olá! Eu sou a Dora, estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia.
+Olá! Eu sou a Dora, estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual e apaixonada por tecnologia.
 
 Este repositório reúne os exercícios e projetos que desenvolvo durante meus estudos de Python, utilizando cursos como Curso em Vídeo, Udemy e os conteúdos da faculdade.
 
