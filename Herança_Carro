@@ -1,0 +1,32 @@
+class Carro:
+    numero_rodas = 4
+    
+    def acelerar(self):
+        print('Acelerando...')
+        
+    def frear(self):
+        print('Freando...')
+        
+    def buzinar(self):
+        print('Buzinando...')
+        
+
+carro = Carro()
+carro.acelerar()
+carro.frear()
+carro.buzinar()
+
+class Uno(Carro): #Herança
+    modelo = 'Uno'
+    marca = 'Fiat'
+    ano = 1992
+    
+uno = Uno()
+uno.acelerar()
+print(uno.numero_rodas)
+
+
+    
+
+    
+
