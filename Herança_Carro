@@ -1,6 +1,8 @@
-class Carro:
+# Classe principal (classe-pai)
+class Carro:   
     numero_rodas = 4
     
+   # Métodos da classe carro 
     def acelerar(self):
         print('Acelerando...')
         
@@ -11,21 +13,25 @@ class Carro:
         print('Buzinando...')
         
 
+# Criação de um objeto da classe
 carro = Carro()
 carro.acelerar()
 carro.frear()
 carro.buzinar()
 
+# Classe filha que herda da classe Carro.
 class Uno(Carro): #Herança
     modelo = 'Uno'
     marca = 'Fiat'
     ano = 1992
-    
+  
+# Criação de um objeto da classe Uno  
 uno = Uno()
+# Métodos e atributos herdados da classe Carro
 uno.acelerar()
 print(uno.numero_rodas)
-
-
+uno.frear()
+uno.buzinar()
     
 
     
